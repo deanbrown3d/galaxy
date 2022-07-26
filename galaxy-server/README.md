@@ -1,2 +1,2 @@
-# react-nodejs-example
-Example Project demonstrating how to develop React application with Nodejs 
+# Deans galaxy server reeadme
+Creates great galaxy simulations with videos
