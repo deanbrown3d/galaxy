@@ -1,2 +1,2 @@
-# Deans galaxy server reeadme
+# Deans galaxy server readme
 Creates great galaxy simulations with videos
